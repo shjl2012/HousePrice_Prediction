@@ -1,4 +1,4 @@
 *.DS_Store
-./app/model/KEL_model_features_clean.csv
-./app/model/NTPC_model_features_clean.csv
-./app/model/TPE_model_features_clean.csv
+app/model/KEL_model_features_clean.csv
+app/model/NTPC_model_features_clean.csv
+app/model/TPE_model_features_clean.csv
