@@ -1,6 +1,6 @@
 #!/bin/bash
-iname="johnlin/docker_deploy_v3"
-cname="docker_deploy_v3"
+iname="johnlin/house-price_prediction"
+cname="house-price_prediction"
 docker build -t ${iname} .
 docker container run -d -p 80:5000 --name ${cname} ${iname}
 
