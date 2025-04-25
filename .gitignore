@@ -1,4 +1,4 @@
 /app/model/KEL/KEL_model_features_clean.csv
 /app/model/TPE/TPE_model_features_clean.csv
 /app/model/NTPC/NTPC_model_features_clean.csv
-/tmp/*
+development/tmp/*
